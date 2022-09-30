@@ -1,8 +1,6 @@
 # 7-Games-js
 
-1-Pedra, Papel e Tesoura. Objetivo desse jogo é revisar conceitos fundamentais de estrutura de controle como if e else.
-e o uso da função random. Funcionamento do jogo consiste em uma seleção de uma opção pelo o usuário, Após isso o computador jogarar sua opção.
-
+1-Pedra, Papel e Tesoura. O objetivo desse jogo é revisar conceitos fundamentais de estrutura de controle como if e else.E o uso da função random. Funcionamento do jogo consiste em uma seleção de uma opção pelo usuário, Após isso o computador jogará sua opção.
 
 #Conjunto de métodos usados no jogo:
 
